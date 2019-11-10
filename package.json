@@ -1,0 +1,13 @@
+{
+    "name": "com.framepush.backstack",
+    "displayName": "Back Stack",
+    "version": "0.1",
+    "unity": "2018.1",
+    "description": "Simplifies working with the back button on Android.",
+    "keywords": [
+        "back",
+        "android",
+        "esc"
+    ],
+    "category": "Unity"
+}
