@@ -9,7 +9,7 @@ namespace FramePush.BackStack
 
         private List<IBackStackable> _Items = new List<IBackStackable>();
 
-        private static BackStack Primary
+        public static BackStack Primary
         {
             get
             {
